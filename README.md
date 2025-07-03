@@ -34,17 +34,7 @@ Understand purchasing behaviour during India's Diwali festival and surface insig
 | `Diwali Sales Data.csv` | Source dataset |
 
 
-## 🚀 Quick Start
-
-```bash
-# clone the repo
-git clone https://github.com/<your‑username>/diwali-sales-eda.git
-cd diwali-sales-eda
-
-# create environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-# launch notebook
-jupyter notebook notebooks/Diwali_Sales_EDA.ipynb
+## 📝 Author
+**SAMPRITI MAHATO**  
+📧 sampriti.mahato01@gmail.com  
+🔗 www.linkedin.com/in/sampriti-mahato-84434a247
