@@ -30,8 +30,8 @@ Understand purchasing behaviour during India's Diwali festival and surface insig
 ## 📁 Files Included
 | File | Description |
 |------|-------------|
-| `Employee_Attrition.pbix` | Main Power BI dashboard file |
-| `Emp_attrition_csv.csv` | Source dataset |
+| `Exploratory Data Analysis.ipynb` | Main Python Project |
+| `Diwali Sales Data.csv` | Source dataset |
 
 
 ## 🚀 Quick Start
